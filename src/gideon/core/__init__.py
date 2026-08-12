@@ -1,0 +1,1 @@
+"""gideon.core — foundational subsystems."""
